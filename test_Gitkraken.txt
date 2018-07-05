@@ -1,3 +1,4 @@
 hello world!
 I am testing Gitkraken.
 (1)test merge
+(2)add By zhangzc 1.1.2-0622
